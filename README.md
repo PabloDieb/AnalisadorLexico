@@ -15,7 +15,7 @@
 
 ## 📕 Informações
 
-Este trabalho tem como objetivo principal, a elaboração de um analisador léxico, desenvolvido a liguagem de programação em java, no qual analisará a linguagem de programação em C#.
+Este trabalho tem como objetivo principal, a elaboração de um analisador léxico, desenvolvido na liguagem de programação java e com o uso do gerador de analisador léxico JFlex, no qual analisará a linguagem de programação Swift.
 
 ## 🚀 Execução
 Certifique-se que possui o Java instalado e configurado na sua máquina.Então, siga os passos a seguir:
