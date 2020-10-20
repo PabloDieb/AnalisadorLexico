@@ -1,0 +1,5 @@
+// Linha comentada
+
+/*
+	Linha comentada
+*/

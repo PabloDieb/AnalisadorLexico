@@ -1,0 +1,5 @@
+var index = 10
+while index < 20 {
+  println(index)
+  index = index + 1
+}

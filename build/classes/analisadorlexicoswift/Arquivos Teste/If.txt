@@ -1,0 +1,5 @@
+let number = 10
+if number > 0 {
+	println("Number is positive.")
+}
+println("This statement is always executed.")

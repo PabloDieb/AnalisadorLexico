@@ -1,0 +1,3 @@
+var matrix = [[Int]]() // creates an empty matrix
+var row = [Int]() // fill this row
+matrix.append(row) 

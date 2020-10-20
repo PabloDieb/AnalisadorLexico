@@ -1,0 +1,3 @@
+func greet(user:String) {
+    println("Good Morning! \(user)")
+}
